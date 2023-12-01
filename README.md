@@ -1,15 +1,13 @@
 # adventTS
 
-Repository to increase programming logic of challenges from different spanish content creators.
+Repository to increase programming logic of challenges from different Spanish content creator.
 
-Initially the idea is create this project template for TypeScript challenges MiduDev and MoureDev.
+Initially the idea is create this project template for TypeScript challenges MiduDev (https://github.com/midudev), and in case that follows another challenges will be placed in their corresponding folder
 
-Review package.json for execute the solutions.
+## 2023 Adventjs
 
-## MiduDev
+https://adventjs.dev/
 
-https://github.com/midudev
+## 2022 Adventjs
 
-## MoureDev
-
-https://github.com/mouredev
+https://2022.adventjs.dev/
