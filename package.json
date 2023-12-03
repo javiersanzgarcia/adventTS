@@ -7,6 +7,7 @@
   "scripts": {
     "advent:23:01": "ts-node src/adventjs/2023/ch01/index.ts",
     "advent:23:02": "ts-node src/adventjs/2023/ch02/index.ts",
+    "advent:23:03": "ts-node src/adventjs/2023/ch03/index.ts",
     "advent:22:01": "ts-node src/adventjs/2022/ch01/index.ts",
     "advent:22:02": "ts-node src/adventjs/2022/ch02/index.ts",
     "advent:22:03": "ts-node src/adventjs/2022/ch03/index.ts",
