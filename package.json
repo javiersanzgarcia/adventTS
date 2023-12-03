@@ -5,7 +5,8 @@
   "description": "Repository to increase programming logic of challenges from different content creators",
   "main": "index.js",
   "scripts": {
-    "advent:23:01": "ts-node src/adventjs/2023/ch01/index.ts"
+    "advent:23:01": "ts-node src/adventjs/2023/ch01/index.ts",
+    "advent:23:02": "ts-node src/adventjs/2023/ch02/index.ts"
   },
   "keywords": [],
   "license": "ISC",
