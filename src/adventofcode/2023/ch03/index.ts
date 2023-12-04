@@ -1,4 +1,3 @@
-import { on } from 'events'
 import fs from 'fs'
 
 const data = fs.readFileSync(__dirname + '/input.txt', 'utf-8')
