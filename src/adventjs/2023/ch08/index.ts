@@ -17,9 +17,6 @@
 // Your task is to write a function organizeGifts that takes a string of gifts as an argument and returns a
 // string representing the warehouse.
 
-import { copyFile } from 'fs'
-import { collapseTextChangeRangesAcrossMultipleVersions } from 'typescript'
-
 function organizeGifts(gifts: string): string {
   const countGifts = gifts.match(/\d+/g)
   const nameGifts = gifts.match(/[^0-9]/g)
