@@ -12,6 +12,7 @@
     "advent:23:05": "ts-node src/adventjs/2023/ch05/index.ts",
     "advent:23:06": "ts-node src/adventjs/2023/ch06/index.ts",
     "advent:23:07": "ts-node src/adventjs/2023/ch07/index.ts",
+    "advent:23:08": "ts-node src/adventjs/2023/ch08/index.ts",
     "advent:22:01": "ts-node src/adventjs/2022/ch01/index.ts",
     "advent:22:02": "ts-node src/adventjs/2022/ch02/index.ts",
     "advent:22:03": "ts-node src/adventjs/2022/ch03/index.ts",
